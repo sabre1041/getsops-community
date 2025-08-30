@@ -1,11 +1,7 @@
 # SOPS Community
 
-> **Note**
->
-> After being [accepted into the CNCF as a Sandbox project][sandbox-application],
-> we are bootstrapping our way into a proper GitHub organization. This
-> effectively means this repository is still in its infancy, while we work
-> through the [onboarding process][sandbox-onboarding].
+Resources for engagement with the [getsops](https://github.com/getsops) community.
 
-[sandbox-application]: https://github.com/cncf/sandbox/issues/28
-[sandbox-onboarding]: https://github.com/cncf/toc/issues/1057
+* [Code of Conduct](./CODE_OF_CONDUCT.md)
+* [Governance](./GOVERNANCE.md)
+* [Maintainers](./MAINTAINERS.md)
